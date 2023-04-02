@@ -1,0 +1,3 @@
+openai_api_key: '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'
+model: 'gpt-3.5-turbo'
+timeout: 30
